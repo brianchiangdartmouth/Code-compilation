@@ -15,6 +15,8 @@ Run BaconatorDriver:
   "u <name>: make <name> the center of the universe\n" +
   "q: quit game"
 
+```
+
 ##File summary
 bacon: folder containing actor-movie data.
 DataReader: processes data files and compiles graph based on actors (nodes) and shared movies (edges) into graph
