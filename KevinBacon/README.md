@@ -1,7 +1,7 @@
-##Summary
+## Summary
 This is a folder programming for the Kevin Bacon game. An actor/actress's Kevin Bacon number is determined by their degrees of separation from Kevin Bacon, i.e. the number of social connections (defined in this case by social connections).
 
-##What can I do?
+## What can I do?
 Run BaconatorDriver:
 ```java
   "1: test on hard-coded simpler graph\n" +
@@ -17,7 +17,7 @@ Run BaconatorDriver:
 
 ```
 
-##File summary
+## File summary
 bacon: folder containing actor-movie data.
 DataReader: processes data files and compiles graph based on actors (nodes) and shared movies (edges) into graph
 Baconator: BFS to find shortest path from other actors to center of universe
