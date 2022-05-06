@@ -18,10 +18,16 @@ Run BaconatorDriver:
 ```
 
 ## File summary
-bacon: folder containing actor-movie data.
-DataReader: processes data files and compiles graph based on actors (nodes) and shared movies (edges) into graph
-Baconator: BFS to find shortest path from other actors to center of universe
-BaconatorDriver: where the code actually runs
-BaconatorDriverTest: hard-coded graph of individuals for easy testing
-AdjacencyMapGraph: implementation of graph with maps of outNeihg
-Graph: basic graph interface with params V (type of vertices) and E (type of edge labels)
+*bacon*: folder containing actor-movie data.
+
+*DataReader*: processes data files and compiles graph based on actors (nodes) and shared movies (edges) into graph
+
+*Baconator*: BFS to find shortest path from other actors to center of universe
+
+*BaconatorDriver*: where the code actually runs
+
+*BaconatorDriverTest*: hard-coded graph of individuals for easy testing
+
+*AdjacencyMapGraph*: implementation of graph with maps of outNeihg
+
+*Graph*: basic graph interface with params V (type of vertices) and E (type of edge labels)
