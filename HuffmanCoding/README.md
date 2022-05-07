@@ -2,7 +2,7 @@
 Using trees, maps, and priority queues, I create a Huffman code for lossless data compression. When compressing a file to save disk space, methods can either be lossy (permanently removes data) or lossless (does not eliminate any data). 
 
 ## What can I do?
-Run *CompressionTester*. For every txt file in the *inputs* folder, it creates two files: a compressed version, and a version that decompresses the compressed version. By using a method to check, the initial file and the final decompressed version are identical – proving that the decompression and compression methods work.
+Run *CompressionTester*. For every txt file in the *inputs* folder, it creates two files: a compressed version, and a version that decompresses the compressed version. By using a method to check, the initial file and the final decompressed version are identical – proving that the decompression and compression methods work. These files get saved in the *inputs* folder, so you can also see them yourself.
 
 ## File summary
 *inputs*: txt files of tests cases to see if there is proper compression and decompression
