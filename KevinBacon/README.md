@@ -1,8 +1,8 @@
 ## Summary
-This is a folder programming for the Kevin Bacon game. An actor/actress's Kevin Bacon number is determined by their degrees of separation from Kevin Bacon, i.e. the number of social connections (defined in this case by social connections).
+This is a folder programming for the Kevin Bacon game. An actor/actress's Kevin Bacon number is determined by their degrees of separation from Kevin Bacon, i.e. the number of social connections (defined in this case by social connections). I primarily use breadth-first-search (BFS), undirected graphs, and other various types of data structures to create this.
 
 ## What can I do?
-Run BaconatorDriver:
+Run *BaconatorDriver*:
 ```java
   "1: test on hard-coded simpler graph\n" +
   "2: test on graph from simpler test file\n" +
